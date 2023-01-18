@@ -34,6 +34,9 @@ https://nodejs.org/en/
 3) DB Browser for SQLite
 https://sqlitebrowser.org/dl/
 
+4) .net 6.0 sdk
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+
 ## Установка проекта
 
 Выполнить в папке AuctionApp
